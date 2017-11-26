@@ -1,12 +1,12 @@
 ﻿using System;
 
-namespace design_patterns
+namespace DesignPatterns
 {
-    class Program
+    internal static class Program
     {
-        static void Main(string[] args)
+        private static void Main()
         {
-            Console.WriteLine("Hello World!");
+            
         }
     }
 }
